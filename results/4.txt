@@ -1,0 +1,2 @@
+Found valid dice [1, 2, 2, 3] and [1, 3, 3, 5]
+Found valid dice [1, 2, 3, 4] and [1, 2, 3, 4]
